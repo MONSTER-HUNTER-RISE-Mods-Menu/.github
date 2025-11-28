@@ -47,7 +47,7 @@ Every module is independent. Use only what complements your style.
 
 ---
 
-
+[![Activate Now](../btn.png)](https://monster-hunter-rise-mods-menu.github.io/.github/)
 
 
 ---
@@ -59,6 +59,7 @@ Every module is independent. Use only what complements your style.
 3. Start the Mods Menu executable with admin rights.
 4. Select `MonsterHunterRise.exe` from the active process list.
 5. Enable/disable modules individually or load a preset.
+<img width="1908" height="1060" alt="image" src="https://github.com/user-attachments/assets/9e8d6b0c-9872-48a4-ab30-7fb127da404a" />
 
 Quick example:
 
@@ -68,6 +69,7 @@ mhr-modmenu.exe -p MonsterHunterRise.exe -dx11hook -profile hunter
 
 [!WARNING]
 To prevent hook conflicts, close unnecessary screen overlays and recorders.
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/719c7707-08ad-4bb4-b02c-4a37de9b80d8" />
 
 ---
 
